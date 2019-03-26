@@ -1,0 +1,2 @@
+* Useful Cmake Flags to Turn On and Off in Your OpenCV install - (http://amritamaz.net/blog/opencv-config)[opencv-config]
+* OpenCV CPU optimizations - https://github.com/opencv/opencv/wiki/CPU-optimizations-build-options
